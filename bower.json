@@ -1,0 +1,5 @@
+{
+  "name": "orbit-sql-source ",
+  "version": "0.0.1",
+  "main": "./orbit-common-sql.js"
+}
