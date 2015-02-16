@@ -1,8 +1,6 @@
 # orbit-sql-source
 Adapter for orbitjs to be used in cordova sqlite
 
-Used in community notes
-
 
 # todo
 
